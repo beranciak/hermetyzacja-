@@ -19,7 +19,7 @@ Metody służące do bezpiecznego odczytu (get) i modyfikacji (set) prywatnych p
 Przyklad hermetyzacji argumentu saldo w taki sposob ze operacje na nim mogą zostać wykonane poprzez odpowiednie funkcje.
 
 
-C++
+```C++
 
 
 #include <iostream>
@@ -93,8 +93,9 @@ public:
     }
 
 };
-
-PRZYKLAD 2 C++
+```
+PRZYKLAD 2 
+```C++
 
 #include <iostream>
 #include <string>
@@ -168,5 +169,5 @@ int main() {
 
     return 0;
 }
-
+```
 
