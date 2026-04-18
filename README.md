@@ -1,4 +1,4 @@
-# hermetyzacja-
+# hermetyzacja
 Hermetyzacja (często nazywana też enkapsulacją) to mechanizm ukrywania wewnętrznego stanu obiektu przed światem zewnętrznym i wymuszania interakcji z tym obiektem wyłącznie przez ściśle określone metody. 
 
 Polega to na hermetyzacji pewnych argumentów w taki sposób że dostęp do nich jest możliwy jedynie przez określone funkcje.
